@@ -1,8 +1,3 @@
 # CodeLore
 
-We are going to learn:
-Web Developing
-
-Python
-
-Javascript
+We are going to learn:Web Developing,Python,Javascript
