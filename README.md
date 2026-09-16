@@ -1,3 +1,5 @@
 # CodeLore
 
 We are going to learn:Web Developing,Python,Javascript
+
+Web Development is the process of creating websites and web applications that people can access through the internet. It is generally divided into three main areas: HTML, which provides the structure and content of a webpage (like headings, paragraphs, images and buttons); CSS (Cascading Style Sheets), which controls how that webpage looks and feels, including colours, fonts, spacing, layouts and responsiveness; and JavaScript, which adds functionality and interactivity, allowing a website to respond to users, perform actions, update information and behave dynamically. As we progress, we will also learn how these technologies work together and eventually explore more advanced concepts such as APIs, databases, responsive design and web applications.
